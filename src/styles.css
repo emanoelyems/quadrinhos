@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+}
+#conteiner {
+  width: 1330px;
+  margin: 0;
+}
+.header {
+  background: url("https://decorecompapel.vteximg.com.br/arquivos/ids/172409-650-650/quadrinhos-marvel-DY0270.jpg?v=636454065165970000");
+  width: 1330px;
+  height: 200px;
+  margin-top: 0;
+  margin-left: 10px;
+  padding: 0;
+}
+.navegacao {
+  background-color: white;
+  width: 1330px;
+  height: 50px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  margin-left: 10px;
+  font-family: "Hind Guntur", sans-serif;
+}
+.button {
+  background-color: white;
+  color: black;
+  padding: 15px 22px;
+  border-radius: 6px;
+  display: inline-block;
+  text-decoration: none;
+  border: 2px solid black;
+  float: left;
+  margin-left: 2px;
+}
+.button:hover {
+  background-color: black;
+  color: white;
+}
+#busca {
+  width: 300px;
+  height: 45px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  margin-left: 10px;
+  float: right;
+  font-family: "Hind Guntur", sans-serif;
+}
+#btnBusca {
+  background-color: white;
+  color: black;
+  padding: 3.5px 10px;
+  border-radius: 8px;
+  display: inline-block;
+  text-decoration: none;
+  border: 2px solid black;
+  float: right;
+  margin-top: 3.5px;
+}
+#txt {
+  font-size: 8px;
+  border: none;
+  height: 28px;
+  width: 210px;
+  padding: 4px;
+  margin-top: 4px;
+  margin-left: 4px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 2px solid black;
+}
+#txt:hover {
+  background-color: black;
+  color: white;
+}
+#btnBusca:hover {
+  background-color: black;
+  color: white;
+}
+#conteudo1 {
+  background-color: #ffff4d;
+  color: black;
+  width: 330px;
+  height: 500px;
+  margin-right: 11px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  float: left;
+}
+#conteudo2 {
+  background-color: #ffff4d;
+  color: white;
+  width: 210px;
+  height: 320px;
+  margin-right: 0px;
+  margin-left: 10px;
+  float: right;
+}
+#conteudo3 {
+  background-color: white;
+  width: 755px;
+  height: 500px;
+  float: right;
+}
+#footer {
+  background: url("https://img.elo7.com.br/product/zoom/22675DC/papel-de-parede-adesivo-quadrinhos-marvel-adesivo-os-vingadores.jpg");
+  background-sizi: cover;
+  width: 1332px;
+  height: 200px;
+  clear: both;
+  margin-left: 11px;
+}
+h1 {
+  font-family: "Bangers", cursive;
+  font-size: 50px;
+  color: #ffff4d;
+  text-align: center;
+  padding: 85px;
+  text-shadow: 3px 2px #ff6600;
+}
+p {
+  font-family: "Hind Guntur", sans-serif;
+  text-aling: center;
+  padding: 10px;
+  margin: 0;
+}
+.conteudo button {
+  color: black;
+  text-decoration: none;
+  font-family: "Hind Guntur", sans-serif;
+  background-color: white;
+  border-bottom-color: black;
+  border-radius: 6px;
+  paddin: 10px;
+  float: right;
+}

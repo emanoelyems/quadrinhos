@@ -1,2 +1,0 @@
-# quadrinhos
-Created with CodeSandbox
